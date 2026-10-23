@@ -22,5 +22,7 @@ A Python desktop application built using Tkinter and hashlib to detect unauthori
 ```bash
 git clone https://github.com/dubeyjay17-stack/File-Integrity-Checker.git
 cd File-Integrity-Checker
+
 2. Run the application:
+```bash
 python integrity_checker.py
